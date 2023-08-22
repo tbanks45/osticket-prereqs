@@ -29,7 +29,8 @@ CGI and Common HTTP Features
 <h2>Installation Steps</h2>
 
 <p>
-![image](https://github.com/tbanks45/osticket-prereqs/assets/142834800/7ffd15fc-d9e2-4548-9bf6-e650ad1976b4)
+![image](https://github.com/tbanks45/osticket-prereqs/assets/142834800/71925c53-f650-4f0d-be62-ae3e670206bf)
+
 
 </p>
 <p>
