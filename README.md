@@ -34,7 +34,7 @@ CGI and Common HTTP Features
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here in the beginning of the osTicket lab I created a virtual machine inside of the resource group (RG-osticket) in which osTicket and the prereqs will be installed. The operating system used for the virtual machine is windows 10. The public IP address (172.190.145.202) was used to remote desktop into the virtual machine.    
 </p>
 <br />
 
