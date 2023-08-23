@@ -43,7 +43,7 @@ Here in the beginning of the osTicket lab I created a virtual machine inside of 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I installed and enabled Internet Information Services(IIS) in Windows WITH CGI and Common HTTP Features. IIS is a web server that allows this computer to serve up websites and osTicket will use it to run.  
 </p>
 <br />
 
