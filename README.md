@@ -52,6 +52,6 @@ Here I installed and enabled Internet Information Services(IIS) in Windows WITH 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After installing IIS along with other requirements such as php, mySQL, heidisql, VC_redist I was able to then install osTicket on to the virtual machine. 
 </p>
 <br />
