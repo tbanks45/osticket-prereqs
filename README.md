@@ -29,6 +29,7 @@ CGI and Common HTTP Features
 <h2>Installation Steps</h2>
 
 <p>
+  
 ![image](https://github.com/tbanks45/osticket-prereqs/assets/142834800/71925c53-f650-4f0d-be62-ae3e670206bf)
 
 
@@ -39,6 +40,7 @@ Here in the beginning of the osTicket lab I created a virtual machine inside of 
 <br />
 
 <p>
+  
 ![image](https://github.com/tbanks45/osticket-prereqs/assets/142834800/f6a78821-8f00-4283-ad78-7272a00cc4a0)
 
 </p>
@@ -48,6 +50,7 @@ Here I installed and enabled Internet Information Services(IIS) in Windows WITH 
 <br />
 
 <p>
+  
 ![image](https://github.com/tbanks45/osticket-prereqs/assets/142834800/4691fcc8-c11e-41f0-a82d-e8cfc7070855)
 
 </p>
